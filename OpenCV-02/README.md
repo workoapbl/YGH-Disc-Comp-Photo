@@ -2,7 +2,10 @@
 
 This doc provides quick notes on commonly used OpenCV functions. This doc is not comprehensive. 
 ### Git Guide
-* Run `git pull origin main` to receive new materials. 
+* Run the following to receive new materials. 
+```bash
+git pull origin main
+```
 * Run the following to add your updates to your personal repo.
 ```bash
 git add .
