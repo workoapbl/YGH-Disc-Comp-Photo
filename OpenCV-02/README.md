@@ -1,7 +1,14 @@
 # Commonly Used Functions
 
 This doc provides quick notes on commonly used OpenCV functions. This doc is not comprehensive. 
-
+### Git Guide
+* Run `git pull origin main` to receive new materials. 
+* Run the following to add your updates to your personal repo.
+```bash
+git add .
+git commit -m "[a descriptive message]"
+git push local main
+```
 ### Imports to Know
 * `import cv2`: Imports OpenCV
 * `import matplotlib.pyplot as plt`: Imports plotting library as plt
